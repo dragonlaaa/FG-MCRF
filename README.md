@@ -1,2 +1,2 @@
 # FG-MCRF
-The dataset of paper A Fine-Grained Message Clustering Method.
+The dataset used in paper Fine-Grained Message Clustering Method.
